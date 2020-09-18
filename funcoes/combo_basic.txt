@@ -1,0 +1,1265 @@
+'diabetes tipo': 160.049232542628
+'açúcar no sangue': 97.77649369146177
+'glicose no sangue': 70.31118647475903
+'ponta do dedo': 45.7931038353925
+'maior risco': 39.566242111356935
+'bom controle': 33.44162312519754
+'vezes ao dia': 26.366694928034633
+'tolerância à glicose': 21.972245773362197
+'alto risco': 19.464973875118524
+'vez ao dia': 16.479184330021646
+'ação da insulina': 16.479184330021646
+'horário da aplicação': 16.479184330021646
+'maioria das vezes': 16.479184330021646
+'membros da equipe': 16.13057204135354
+'diabetes melito': 15.999237972318797
+'controle da glicemia': 13.933347464017316
+'horas do horário': 13.183347464017316
+'longo do dia': 13.183347464017316
+'resistência à insulina': 13.183347464017316
+'diabetes mellitus': 13.16979643063896
+'melhor controle': 12.53350206951907
+'controle das glicemias': 11.387510598012987
+'glicemia na ponta': 9.887510598012987
+'automonitoramento da glicemia': 9.887510598012987
+'De qualquer forma': 9.887510598012987
+'mau controle': 9.760913347279288
+'maior parte': 9.181471805599454
+'diabetes melito tipo': 8.988898309344878
+'café da manhã': 8.788898309344878
+'noção da quantidade': 8.788898309344878
+'aplicação da insulina': 8.788898309344878
+'destruição das células': 8.788898309344878
+'bom controle das glicemias': 8.517766166719342
+'controle da glicose': 8.44028602067677
+'principais fatores': 8.317766166719343
+'longo prazo': 8.317766166719343
+'nesses casos': 7.738324625039508
+'aumento das glicemias': 7.690286020676768
+'diabetes gestacional': 7.681471805599453
+'mesma quantidade': 7.6246189861593985
+'longo período': 7.6246189861593985
+'pequenos vasos': 7.6246189861593985
+'controlo das glicemias': 7.341673732008658
+'único prato da refeição': 7.131471805599453
+'bom controle da glicemia': 7.131471805599453
+'melhor controlo': 7.045177444479562
+'mesma forma': 7.045177444479562
+'maior gravidade': 6.988324625039508
+'horários corretos': 6.988324625039508
+'melhor forma': 6.931471805599453
+'Atividade física rotineira': 6.691673732008658
+'metabolização da fenilalanina': 6.591673732008658
+'glicemia no glicosímetro': 6.591673732008658
+'colesterol no sangue': 6.591673732008658
+'aumento da saciedade': 6.591673732008658
+'sintomas ao lado': 6.591673732008658
+'indústria da bomba': 6.591673732008658
+'resposta da questão': 6.591673732008658
+'maioria das pessoas': 6.591673732008658
+'evolução da doença': 6.591673732008658
+'cotidiano da criança': 6.591673732008658
+'porcentagem da ultrarápida': 6.591673732008658
+'texto da lei': 6.591673732008658
+'monitoração da glicemia': 6.591673732008658
+'medida da glicemia': 6.591673732008658
+'tolerância a glicose': 6.591673732008658
+'diabetes na comunidade': 6.591673732008658
+'melito tipo': 6.295177444479562
+'mesmo tempo': 6.295177444479562
+'prato da refeição': 6.243061443340549
+'basal temporário': 6.238324625039508
+'altos níveis': 6.238324625039508
+'manifestação da doença': 5.894449154672439
+'melhor controlo da glicemia': 5.7451774444795625
+'causa do diabetes tipo': 5.645177444479562
+'maior frequência': 5.602030263919617
+'insulina nesses casos': 5.593061443340549
+'pequenas quantidades': 5.545177444479562
+'intermediária hiperglicemia': 5.545177444479562
+'ajuste do tratamento': 5.493061443340549
+'progressão da doença': 5.493061443340549
+'prevenção da doença': 5.493061443340549
+'aumento da frequência': 5.493061443340549
+'resultado do teste': 5.493061443340549
+'base da alimentação': 5.493061443340549
+'metas do tratamento': 5.493061443340549
+'tratamento do diabetes': 5.493061443340549
+'controlo da glicemia': 5.144449154672439
+'primeira manifestação': 4.965735902799727
+'física rotineira': 4.9088830833596715
+'pronto atendimento': 4.852030263919617
+'melhores resultados': 4.852030263919617
+'acompanhamento médico': 4.852030263919617
+'pequena quantidade': 4.852030263919617
+'grande quantidade': 4.852030263919617
+'Atenção Básica nº': 4.494449154672439
+'luz do sol': 4.394449154672439
+'vezes o diagnóstico': 4.394449154672439
+'médico da equipe': 4.394449154672439
+'equipe no tocante': 4.394449154672439
+'quantidade no sangue': 4.394449154672439
+'educação do paciente': 4.394449154672439
+'inflamação da gengiva': 4.394449154672439
+'controle da pressão': 4.394449154672439
+'início do tratamento': 4.394449154672439
+'tratamento da doença': 4.394449154672439
+'combate ao efeito': 4.394449154672439
+'alimentação das pessoas': 4.394449154672439
+'progressão da retinopatia': 4.394449154672439
+'meio da tarde': 4.394449154672439
+'doenças do fígado': 4.394449154672439
+'toma da medicação': 4.394449154672439
+'prevenção da cetoacidose': 4.394449154672439
+'monitoramento da glicemia': 4.394449154672439
+'células do pâncreas': 4.394449154672439
+'alerta do corpo': 4.394449154672439
+'prevenção das complicações': 4.394449154672439
+'diabetes do tipo': 4.394449154672439
+'avaliação do risco': 4.394449154672439
+'autonomia do paciente': 4.394449154672439
+'atendimento ao diabetes': 4.394449154672439
+'alteração do estado': 4.394449154672439
+'principais questionamentos das pessoas': 4.358883083359672
+'crescentes números da doença': 4.358883083359672
+'maior tolerância ao uso': 4.358883083359672
+'Grande parte das pessoas': 4.358883083359672
+'últimos anos vários estudos': 4.358883083359672
+'simples fato do diagnóstico': 4.358883083359672
+'maior parte das vezes': 4.358883083359672
+'horários corretos das refeições': 4.358883083359672
+'maior parte do conteúdo': 4.358883083359672
+'insulina lispro no lugar': 4.358883083359672
+'unidades da insulina lispro': 4.358883083359672
+'grande diferença na qualidade': 4.358883083359672
+'longo jejum desse período': 4.358883083359672
+'maior gravidade da COVID-19': 4.358883083359672
+'mau controle da doença': 4.358883083359672
+'principais cuidados no manejo': 4.358883083359672
+'grande ameaça à vida': 4.358883083359672
+'ótimo controle das glicemias': 4.358883083359672
+'alto risco no caso': 4.358883083359672
+'mesmo tempo no aparelho': 4.358883083359672
+'próxima ponta do dedo': 4.358883083359672
+'início do 6º mês': 4.258883083359671
+'médico do respectivo país': 4.258883083359671
+'contratação pelo simples fato': 4.258883083359671
+'uso da mesma lanceta': 4.258883083359671
+'mesmos na mesma refeição': 4.258883083359671
+'carboidrato da última refeição': 4.258883083359671
+'forma o bom controle': 4.258883083359671
+'medicamentos da mesma forma': 4.258883083359671
+'insulinas na mesma seringa': 4.258883083359671
+'predisposição ao diabetes tipo': 4.258883083359671
+'possibilidade da nova medicação': 4.258883083359671
+'última refeição': 4.215735902799727
+'único prato': 4.215735902799727
+'Grande parte': 4.215735902799727
+'única etapa': 4.215735902799727
+'últimos anos': 4.215735902799727
+'melhor horário': 4.1588830833596715
+'seguintes orientações': 4.1588830833596715
+'Bom dia': 4.1588830833596715
+'grande público': 4.1588830833596715
+'mesmo local': 4.1588830833596715
+'menor índice': 4.1588830833596715
+'diabetes recebam': 4.1588830833596715
+'pera média': 4.1588830833596715
+'mesmas orientações': 4.1588830833596715
+'primeiro lugar': 4.1588830833596715
+'baixo índice': 4.1588830833596715
+'mesmo dia': 4.1588830833596715
+'baixo nível': 4.1588830833596715
+'próxima dose': 4.1588830833596715
+'tempo no aparelho': 4.045836866004329
+'fato do diagnóstico': 4.045836866004329
+'jejum desse período': 4.045836866004329
+'gravidade da COVID-19': 4.045836866004329
+'corretos das refeições': 4.045836866004329
+'anos vários estudos': 4.045836866004329
+'números da doença': 4.045836866004329
+'parte das vezes': 4.045836866004329
+'lispro no lugar': 4.045836866004329
+'cuidados no manejo': 4.045836866004329
+'parte das pessoas': 4.045836866004329
+'questionamentos das pessoas': 4.045836866004329
+'ameaça à vida': 4.045836866004329
+'diferença na qualidade': 4.045836866004329
+'parte do conteúdo': 4.045836866004329
+'controle da doença': 4.045836866004329
+'risco no caso': 4.045836866004329
+'complicações do diabetes': 4.045836866004329
+'unidades da insulina': 4.045836866004329
+'tolerância ao uso': 4.045836866004329
+'tipo cream': 3.636294361119891
+'simples fato': 3.5794415416798357
+'insulina lispro': 3.5794415416798357
+'Básica nº': 3.522588722239781
+'grande parte': 3.522588722239781
+'melhor opção': 3.4657359027997265
+'boa saúde': 3.4657359027997265
+'grandes quantidades': 3.4657359027997265
+'melhor adoçante': 3.4657359027997265
+'primeira medida': 3.4657359027997265
+'menor teor': 3.4657359027997265
+'curto período': 3.4657359027997265
+'principais dúvidas': 3.4657359027997265
+'vitamina C': 3.4657359027997265
+'dose única diária': 3.395836866004329
+'pessoa diabética tipo': 3.395836866004329
+'ofereçer melhor controle': 3.395836866004329
+'respeito da chamada': 3.295836866004329
+'restrições à prática': 3.295836866004329
+'consumo do açúcar': 3.295836866004329
+'prática da atividade': 3.295836866004329
+'auxílio do governo': 3.295836866004329
+'dourado ao marrom-escuro': 3.295836866004329
+'valor da glicemia': 3.295836866004329
+'função da variedade': 3.295836866004329
+'estação do ano': 3.295836866004329
+'benefício no consumo': 3.295836866004329
+'substituição ao açúcar': 3.295836866004329
+'glicose do açúcar': 3.295836866004329
+'medição da glicemia': 3.295836866004329
+'assunto no site': 3.295836866004329
+'questione na farmácia': 3.295836866004329
+'caso à ouvidoria': 3.295836866004329
+'dúvida um paciente': 3.295836866004329
+'mucosa das bochechas': 3.295836866004329
+'tempo na circulação': 3.295836866004329
+'respeito da autenticidade': 3.295836866004329
+'adoçante a base': 3.295836866004329
+'monitorização nesse horário': 3.295836866004329
+'autenticidade das pesquisas': 3.295836866004329
+'adoçantes na coluna': 3.295836866004329
+'efetivação do cargo': 3.295836866004329
+'uso do álcool': 3.295836866004329
+'região esse processo': 3.295836866004329
+'alimentação os valores': 3.295836866004329
+'governo na compra': 3.295836866004329
+'compra da insulina': 3.295836866004329
+'creme a base': 3.295836866004329
+'lateral do pé': 3.295836866004329
+'vez na gestação': 3.295836866004329
+'saúde da mãe': 3.295836866004329
+'gravidez no controle': 3.295836866004329
+'manejo do diabetes': 3.295836866004329
+'ferida na lateral': 3.295836866004329
+'resultados da gravidez': 3.295836866004329
+'Controle sua alimentação': 3.295836866004329
+'acesso ao site': 3.295836866004329
+'segurança no exercício': 3.295836866004329
+'posição das pernas': 3.295836866004329
+'sintomas da neuropatia': 3.295836866004329
+'glicose na ponta': 3.295836866004329
+'furo na mão': 3.295836866004329
+'dedos da mão': 3.295836866004329
+'aumento do apetite': 3.295836866004329
+'cicatrização da ferida': 3.295836866004329
+'vezes alguns erros': 3.295836866004329
+'avaliação da circulação': 3.295836866004329
+'tratamento nas doses': 3.295836866004329
+'frequência a medição': 3.295836866004329
+'informação no site': 3.295836866004329
+'vezes ao angiologista': 3.295836866004329
+'universo da diabetes': 3.295836866004329
+'sangue do laboratório': 3.295836866004329
+'mente a importância': 3.295836866004329
+'esclarecimentos do site': 3.295836866004329
+'medidas da glicose': 3.295836866004329
+'foto da lesão': 3.295836866004329
+'medicamentos no controle': 3.295836866004329
+'controle da alimentação': 3.295836866004329
+'tratamento da cetoacidose': 3.295836866004329
+'dias ao todo': 3.295836866004329
+'dores nas costas': 3.295836866004329
+'orientação da gravidade': 3.295836866004329
+'elevador pela escada': 3.295836866004329
+'aumento da retenção': 3.295836866004329
+'jejum o valor': 3.295836866004329
+'relação à situação': 3.295836866004329
+'refeição da forma': 3.295836866004329
+'conta do coronavírus': 3.295836866004329
+'rodizio nas aplicações': 3.295836866004329
+'elevação do açúcar': 3.295836866004329
+'complicações pela infecção': 3.295836866004329
+'uso do medicamento': 3.295836866004329
+'aplicação da dose': 3.295836866004329
+'local da aplicação': 3.295836866004329
+'resposta ao questionamento': 3.295836866004329
+'médico do trabalho': 3.295836866004329
+'influencia a glicemia': 3.295836866004329
+'carbono da massa': 3.295836866004329
+'jejum da noite': 3.295836866004329
+'jejum a glicemia': 3.295836866004329
+'ocorrência na delegacia': 3.295836866004329
+'consideração a quantidade': 3.295836866004329
+'médica do trabalho': 3.295836866004329
+'realização do rodizio': 3.295836866004329
+'consequência da falta': 3.295836866004329
+'perto no início': 3.295836866004329
+'causa da imunidade': 3.295836866004329
+'diminuição da glicosúria': 3.295836866004329
+'perda do olfato': 3.295836866004329
+'fato do contato': 3.295836866004329
+'cargo do médico': 3.295836866004329
+'fracionamento da dose': 3.295836866004329
+'vezes no entanto': 3.295836866004329
+'cursos na área': 3.295836866004329
+'uso da medicação': 3.295836866004329
+'consideração o tempo': 3.295836866004329
+'glicose pela urina': 3.295836866004329
+'coceira no local': 3.295836866004329
+'orientações das autoridades': 3.295836866004329
+'local da injeção': 3.295836866004329
+'continuação do tratamento': 3.295836866004329
+'regiões do corpo': 3.295836866004329
+'complicação do diabetes': 3.295836866004329
+'explicação da causa': 3.295836866004329
+'açúcar na mucosa': 3.295836866004329
+'abandono do fumo': 3.295836866004329
+'disciplina no manejo': 3.295836866004329
+'medicação da classe': 3.295836866004329
+'caso do uso': 3.295836866004329
+'validade da insulina': 3.295836866004329
+'tampa do frasco': 3.295836866004329
+'contaminação da agulha': 3.295836866004329
+'higiene no local': 3.295836866004329
+'lanche na coxa': 3.295836866004329
+'almoço no braço': 3.295836866004329
+'absorção da insulina': 3.295836866004329
+'nodulações na pele': 3.295836866004329
+'dificuldade do controle': 3.295836866004329
+'insulina neste período': 3.295836866004329
+'alternativas no tratamento': 3.295836866004329
+'vezes a insulina': 3.295836866004329
+'demora pelo menos': 3.295836866004329
+'refeições ao dia': 3.295836866004329
+'perda da visão': 3.295836866004329
+'cópia da receita': 3.295836866004329
+'tomadas das medicações': 3.295836866004329
+'ajustes das glicemias': 3.295836866004329
+'aplicação das insulinas': 3.295836866004329
+'doses do bolus': 3.295836866004329
+'longo das horas': 3.295836866004329
+'aumento da dose': 3.295836866004329
+'necessidade do aumento': 3.295836866004329
+'conta do suor': 3.295836866004329
+'queda da bomba': 3.295836866004329
+'insulina da bomba': 3.295836866004329
+'bombas do mercado': 3.295836866004329
+'dobras no sistema': 3.295836866004329
+'erro na contagem': 3.295836866004329
+'benefícios deste tratamento': 3.295836866004329
+'adequações do tratamento': 3.295836866004329
+'início da manhã': 3.295836866004329
+'glicemia no início': 3.295836866004329
+'elevação da glicemia': 3.295836866004329
+'dedicação do paciente': 3.295836866004329
+'indústrias do mercado': 3.295836866004329
+'frente do olho': 3.295836866004329
+'complicação no olho': 3.295836866004329
+'tratamentos na gengiva': 3.295836866004329
+'chave do sucesso': 3.295836866004329
+'função do rim': 3.295836866004329
+'medicamentos na forma': 3.295836866004329
+'organismo à ação': 3.295836866004329
+'resistência do organismo': 3.295836866004329
+'complicações ao organismo': 3.295836866004329
+'aumento da glicose': 3.295836866004329
+'hora do banho': 3.295836866004329
+'insulina na hora': 3.295836866004329
+'dose da insulina': 3.295836866004329
+'vídeos no canal': 3.295836866004329
+'Assista os vídeos': 3.295836866004329
+'entendimento do diabetes': 3.295836866004329
+'roteiro ao lado': 3.295836866004329
+'dúvidas do dia': 3.295836866004329
+'termos da Resolução': 3.295836866004329
+'reprodução deste volume': 3.295836866004329
+'Delegado da SACAInternational': 3.295836866004329
+'exame da hemoglobina': 3.295836866004329
+'média das glicemias': 3.295836866004329
+'aumento da saliva': 3.295836866004329
+'irregularidade na sola': 3.295836866004329
+'mudança da dose': 3.295836866004329
+'dificuldade da cicatrização': 3.295836866004329
+'Atenção ao excesso': 3.295836866004329
+'ferimento no pé': 3.295836866004329
+'peso do corpo': 3.295836866004329
+'ferida no pé': 3.295836866004329
+'palmilha do calçado': 3.295836866004329
+'alteração da sensibilidade': 3.295836866004329
+'minutos da ingestão': 3.295836866004329
+'sola do pé': 3.295836866004329
+'anos do diagnóstico': 3.295836866004329
+'queda da glicemia': 3.295836866004329
+'benefício da atividade': 3.295836866004329
+'valores das glicemias': 3.295836866004329
+'dor nas costas': 3.295836866004329
+'minutos a glicemia': 3.295836866004329
+'mulheres no período': 3.295836866004329
+'prejuízo da troca': 3.295836866004329
+'glicemias nesse período': 3.295836866004329
+'necessidades do organismo': 3.295836866004329
+'alteração na taxa': 3.295836866004329
+'aumento das doses': 3.295836866004329
+'alimentação da pessoa': 3.295836866004329
+'melhora da resistência': 3.295836866004329
+'qualidade da alimentação': 3.295836866004329
+'retirada do açúcar': 3.295836866004329
+'casos o açúcar': 3.295836866004329
+'consumo do álcool': 3.295836866004329
+'hipoglicemia pelo consumo': 3.295836866004329
+'tamanho da porção': 3.295836866004329
+'adição do açúcar': 3.295836866004329
+'doença no mundo': 3.295836866004329
+'conjunto no tratamento': 3.295836866004329
+'importância da terapia': 3.295836866004329
+'benefícios do exercício': 3.295836866004329
+'sangue o tempo': 3.295836866004329
+'organismo no momento': 3.295836866004329
+'resposta à insulina': 3.295836866004329
+'atividades do corpo': 3.295836866004329
+'moderação no consumo': 3.295836866004329
+'valores da pressão': 3.295836866004329
+'tratamento da hipertensão': 3.295836866004329
+'diabetes o paciente': 3.295836866004329
+'saúde do coração': 3.295836866004329
+'torno da cintura': 3.295836866004329
+'pacientes nesse estágio': 3.295836866004329
+'maioria das gestações': 3.295836866004329
+'uso da insulina': 3.295836866004329
+'período da gravidez': 3.295836866004329
+'mãe da gestante': 3.295836866004329
+'estêmulo da ingestáo': 3.295836866004329
+'diabetes na vida': 3.295836866004329
+'aumento do nível': 3.295836866004329
+'controla a taxa': 3.295836866004329
+'redução do peso': 3.295836866004329
+'descontrole da fome': 3.295836866004329
+'aumento da resposta': 3.295836866004329
+'dados no computador': 3.295836866004329
+'cetonas no sangue': 3.295836866004329
+'descompensação do diabetes': 3.295836866004329
+'leitura das glicemias': 3.295836866004329
+'obtida no laboratório': 3.295836866004329
+'leitura do glicosímetro': 3.295836866004329
+'colocação do sensor': 3.295836866004329
+'lancetadores ao invés': 3.295836866004329
+'doses da insulina': 3.295836866004329
+'gota na tira': 3.295836866004329
+'metade do frasco': 3.295836866004329
+'tela do aparelho': 3.295836866004329
+'complicações da doença': 3.295836866004329
+'sucesso do tratamento': 3.295836866004329
+'parte do regime': 3.295836866004329
+'lateral da ponta': 3.295836866004329
+'pontas do dedo': 3.295836866004329
+'proteção ao coração': 3.295836866004329
+'sensibilidade do organismo': 3.295836866004329
+'organismo à insulina': 3.295836866004329
+'sal tipo cream cracker': 3.272588722239781
+'sal tipo cream': 3.1472245773362197
+'tipo cream cracker': 3.1472245773362197
+'maior apoio da equipe': 2.9725887222397813
+'urgência o atendimento médico': 2.9725887222397813
+'diversos tecidos do corpo': 2.9725887222397813
+'leve pressão no local': 2.9725887222397813
+'conseqüente prejuízo no controle': 2.9725887222397813
+'diversos membros da equipe': 2.9725887222397813
+'controle da glicose causa': 2.9725887222397813
+'enzima conversora da angiotensina': 2.9725887222397813
+'baixo controle da taxa': 2.9725887222397813
+'mel embaixo da língua': 2.9725887222397813
+'primeira manifestação da doença': 2.9725887222397813
+'maior parte do dia': 2.9725887222397813
+'melhor comodidade na aplicação': 2.9725887222397813
+'melhor controlo das glicemias': 2.9725887222397813
+'pequenas alterações nas moléculas': 2.9725887222397813
+'pronto acesso ao serviço': 2.9725887222397813
+'grandes responsáveis pelo aumento': 2.9725887222397813
+'única etapa do diabetes': 2.9725887222397813
+'principal manifestação da doença': 2.9725887222397813
+'principal função da insulina': 2.9725887222397813
+'maior risco da doença': 2.9725887222397813
+'mesma forma os níveis': 2.9725887222397813
+'maior causa das complicações': 2.9725887222397813
+'complicações do diabetes tipo': 2.9725887222397813
+'principais sintomas do diabete': 2.9725887222397813
+'mudanças positivas no estilo': 2.9725887222397813
+'possível prefira as versões': 2.9725887222397813
+'escolhas medicamentosas no tratamento': 2.9725887222397813
+'maior assertividade no ajuste': 2.9725887222397813
+'medicamentosas no tratamento': 2.9472245773362196
+'urgência o atendimento': 2.9472245773362196
+'forma os níveis': 2.9472245773362196
+'etapa do diabetes': 2.9472245773362196
+'embaixo da língua': 2.9472245773362196
+'sintomas do diabete': 2.9472245773362196
+'apoio da equipe': 2.9472245773362196
+'controle da taxa': 2.9472245773362196
+'positivas no estilo': 2.9472245773362196
+'pressão no local': 2.9472245773362196
+'causa das complicações': 2.9472245773362196
+'prejuízo no controle': 2.9472245773362196
+'responsáveis pelo aumento': 2.9472245773362196
+'tecidos do corpo': 2.9472245773362196
+'parte do dia': 2.9472245773362196
+'acesso ao serviço': 2.9472245773362196
+'conversora da angiotensina': 2.9472245773362196
+'alterações nas moléculas': 2.9472245773362196
+'assertividade no ajuste': 2.9472245773362196
+'risco da doença': 2.9472245773362196
+'comodidade na aplicação': 2.9472245773362196
+'função da insulina': 2.9472245773362196
+'prefira as versões': 2.9472245773362196
+'enzima conversora': 2.886294361119891
+'sal tipo': 2.886294361119891
+'cream cracker': 2.886294361119891
+'vitaminas do complexo B': 2.8725887222397812
+'diferenças das diabetes tipo': 2.8725887222397812
+'insulina na diabetes tipo': 2.8725887222397812
+'causas da maior frequência': 2.8725887222397812
+'diagnóstico do diabetes tipo': 2.8725887222397812
+'agravamento do diabetes tipo': 2.8725887222397812
+'controle do diabetes tipo': 2.8725887222397812
+'fala da seguinte maneira': 2.8725887222397812
+'inibidores da enzima conversora': 2.8725887222397812
+'mão no seguinte endereço': 2.8725887222397812
+'vezes a primeira manifestação': 2.8725887222397812
+'cetonúria no diabetes tipo': 2.8725887222397812
+'hiperglicemia do diabetes tipo': 2.8725887222397812
+'inibidor da enzima fosfodiesterase': 2.8725887222397812
+'desenvolvimento do diabetes tipo': 2.8725887222397812
+'nova medicação': 2.8294415416798357
+'principais cuidados': 2.8294415416798357
+'mesma lanceta': 2.8294415416798357
+'mesma seringa': 2.8294415416798357
+'6º mês': 2.8294415416798357
+'grande ameaça': 2.8294415416798357
+'respectivo país': 2.8294415416798357
+'diabética tipo': 2.8294415416798357
+'ótimo controle': 2.8294415416798357
+'maior tolerância': 2.8294415416798357
+'principais questionamentos': 2.8294415416798357
+'grande diferença': 2.8294415416798357
+'próxima ponta': 2.8294415416798357
+'longo jejum': 2.8294415416798357
+'única diária': 2.8294415416798357
+'crescentes números': 2.8294415416798357
+'mesma refeição': 2.8294415416798357
+'melhor pão': 2.772588722239781
+'diabetes juvenil': 2.772588722239781
+'termo tipo': 2.772588722239781
+'próxima seção': 2.772588722239781
+'maior morbimortalidade': 2.772588722239781
+'boa fonte': 2.772588722239781
+'Alto risco': 2.772588722239781
+'intervalos regulares': 2.772588722239781
+'principais manifestações': 2.772588722239781
+'diabetes gestacional valores': 2.3972245773362197
+'vezes maior doença': 2.2972245773362197
+'estabilidade metabólica transitória': 2.2972245773362197
+'importantes nesses casos': 2.2972245773362197
+'doença renal terminal': 2.2972245773362197
+'doenças isquêmicas cardiovasculares': 2.2972245773362197
+'programa educativo aspectos': 2.2972245773362197
+'alimentos líquidos caseiros': 2.2972245773362197
+'escola grande parte': 2.2972245773362197
+'Testes neurológicos básicos': 2.2972245773362197
+'medicamentos à cirurgia': 2.1972245773362196
+'recuperação da visão': 2.1972245773362196
+'oxigênio à retina': 2.1972245773362196
+'risco da retinopatia': 2.1972245773362196
+'remoção das lentes': 2.1972245773362196
+'desenvolvimento da diabetes': 2.1972245773362196
+'comprime os vasos': 2.1972245773362196
+'acúmulo na câmara': 2.1972245773362196
+'drenagem do humor': 2.1972245773362196
+'parte da retina': 2.1972245773362196
+'pé das pessoas': 2.1972245773362196
+'estresse da sobrecarga': 2.1972245773362196
+'fase da macroalbuminúria': 2.1972245773362196
+'proteína na urina': 2.1972245773362196
+'exemplo das proteínas': 2.1972245773362196
+'resíduos do sangue': 2.1972245773362196
+'diminuição do fluxo': 2.1972245773362196
+'maioria das amputações': 2.1972245773362196
+'alterações no metabolismo': 2.1972245773362196
+'aparecimento da complicação': 2.1972245773362196
+'água do corpo': 2.1972245773362196
+'curso da doença': 2.1972245773362196
+'pessoas no mundo': 2.1972245773362196
+'pacientes a possibilidade': 2.1972245773362196
+'gordura no fígado': 2.1972245773362196
+'excesso no depósito': 2.1972245773362196
+'caso das mulheres': 2.1972245773362196
+'classificação da diabetes': 2.1972245773362196
+'encaminhamento do paciente': 2.1972245773362196
+'nervos das pernas': 2.1972245773362196
+'aumento da obesidade': 2.1972245773362196
+'amputação do pé': 2.1972245773362196
+'deficiência desse hormônio': 2.1972245773362196
+'decorrência da deficiência': 2.1972245773362196
+'calorias no tecido': 2.1972245773362196
+'células do corpo': 2.1972245773362196
+'energia ao organismo': 2.1972245773362196
+'acompanhamento pela vida': 2.1972245773362196
+'momento da vida': 2.1972245773362196
+'forma ao tratamento': 2.1972245773362196
+'sustentação do dente': 2.1972245773362196
+'perda do osso': 2.1972245773362196
+'dente na boca': 2.1972245773362196
+'aumento nas despesas': 2.1972245773362196
+'Alterações na resposta': 2.1972245773362196
+'resultado da interação': 2.1972245773362196
+'acompanhada da diminuição': 2.1972245773362196
+'causa da depressão': 2.1972245773362196
+'resposta do hospedeiro': 2.1972245773362196
+'amputação do membro': 2.1972245773362196
+'razão da vascularização': 2.1972245773362196
+'casos a falta': 2.1972245773362196
+'alteração na visão': 2.1972245773362196
+'diminuição da energia': 2.1972245773362196
+'carbono da refeição': 2.1972245773362196
+'resto do corpo': 2.1972245773362196
+'parte das refeições': 2.1972245773362196
+'energia ao longo': 2.1972245773362196
+'glicemias ao longo': 2.1972245773362196
+'meio da manhã': 2.1972245773362196
+'grupos da roda': 2.1972245773362196
+'hidrogenadas das carnes': 2.1972245773362196
+'complicações da diabetes': 2.1972245773362196
+'intervalo das refeições': 2.1972245773362196
+'início das refeições': 2.1972245773362196
+'aumento da glicemia': 2.1972245773362196
+'reguladora do apetite': 2.1972245773362196
+'legumes à vontade': 2.1972245773362196
+'legumes no início': 2.1972245773362196
+'início da refeição': 2.1972245773362196
+'completo o apetite': 2.1972245773362196
+'fruta no intervalo': 2.1972245773362196
+'manutenção das células': 2.1972245773362196
+'final do almoço': 2.1972245773362196
+'sangue ao longo': 2.1972245773362196
+'carbono da fruta': 2.1972245773362196
+'aspartame na preparação': 2.1972245773362196
+'tempo a subida': 2.1972245773362196
+'consideração o tipo': 2.1972245773362196
+'limite os fritos': 2.1972245773362196
+'decomposição da gordura': 2.1972245773362196
+'carne à vontade': 2.1972245773362196
+'preferência às carnes': 2.1972245773362196
+'ovo à carne': 2.1972245773362196
+'vinho à refeição': 2.1972245773362196
+'parte das vitaminas': 2.1972245773362196
+'controlo da fome': 2.1972245773362196
+'alteração do ritmo': 2.1972245773362196
+'metade da dose': 2.1972245773362196
+'açúcar da receita': 2.1972245773362196
+'embalagem do adoçante': 2.1972245773362196
+'caso o bolo': 2.1972245773362196
+'combiná-los da forma': 2.1972245773362196
+'complicações no coração': 2.1972245773362196
+'sinais da medula': 2.1972245773362196
+'relação ao tempo': 2.1972245773362196
+'Inibidores da alfaglicosidase': 2.1972245773362196
+'carboidratos no intestino': 2.1972245773362196
+'insulina pelas células': 2.1972245773362196
+'insulina pelo pâncreas': 2.1972245773362196
+'obtenção do medicamento': 2.1972245773362196
+'população as insulinas': 2.1972245773362196
+'ajuste da dosagem': 2.1972245773362196
+'duração do efeito': 2.1972245773362196
+'causa do tipo': 2.1972245773362196
+'parte ao esvaziamento': 2.1972245773362196
+'monitoramento do índice': 2.1972245773362196
+'profissional da saúde': 2.1972245773362196
+'risca as orientaões': 2.1972245773362196
+'reação do fígado': 2.1972245773362196
+'preparação do organismo': 2.1972245773362196
+'início da noite': 2.1972245773362196
+'região da cintura': 2.1972245773362196
+'dia-a-dia do paciente': 2.1972245773362196
+'casa um aparelho': 2.1972245773362196
+'medicamentos da classe': 2.1972245773362196
+'Independente do tipo': 2.1972245773362196
+'início ao tratamento': 2.1972245773362196
+'batata pelo ovo': 2.1972245773362196
+'consideração as equivalências': 2.1972245773362196
+'sintomas do diabetes': 2.1972245773362196
+'crescimento do excesso': 2.1972245773362196
+'obesidade no país': 2.1972245773362196
+'crescimento da obesidade': 2.1972245773362196
+'obesidade na população': 2.1972245773362196
+'promoção da alimentação': 2.1972245773362196
+'promoção à nutrição': 2.1972245773362196
+'alterações na taxa': 2.1972245773362196
+'triglicérides no sangue': 2.1972245773362196
+'volta da cintura': 2.1972245773362196
+'Apneia do sono': 2.1972245773362196
+'importância do encaminhamento': 2.1972245773362196
+'pacientes nas discussões': 2.1972245773362196
+'parte da equipe': 2.1972245773362196
+'aumento da pressão': 2.1972245773362196
+'restrição da ingestão': 2.1972245773362196
+'percepção da temperatura': 2.1972245773362196
+'exacerbação à noite': 2.1972245773362196
+'Avaliação do limiar': 2.1972245773362196
+'Sintomas da neuropatia': 2.1972245773362196
+'dignóstico da neuropatia': 2.1972245773362196
+'mudança da posição': 2.1972245773362196
+'manejo da neuropatia': 2.1972245773362196
+'acompanhamento da disautonomia': 2.1972245773362196
+'risco do paciente': 2.1972245773362196
+'infecção no pé': 2.1972245773362196
+'risco do pé': 2.1972245773362196
+'diminuição da sensibilidade': 2.1972245773362196
+'Manejo do pé': 2.1972245773362196
+'emergências do pé': 2.1972245773362196
+'conhecimentos do paciente': 2.1972245773362196
+'atenção ao pé': 2.1972245773362196
+'distribuição da pressão': 2.1972245773362196
+'comprometimento do osso': 2.1972245773362196
+'ressecção das bordas': 2.1972245773362196
+'menos uma vacina': 2.1972245773362196
+'reforço da vacina': 2.1972245773362196
+'treinamento da equipe': 2.1972245773362196
+'complexidade do manejo': 2.1972245773362196
+'competência uma população': 2.1972245773362196
+'diabetes na população': 2.1972245773362196
+'equipe da Estratégia': 2.1972245773362196
+'progressão da nefropatia': 2.1972245773362196
+'momento do diagnóstico': 2.1972245773362196
+'manutenção da saúde': 2.1972245773362196
+'anos da doença': 2.1972245773362196
+'avaliação do estado': 2.1972245773362196
+'piora do quadro': 2.1972245773362196
+'Prevenção da Síndrome': 2.1972245773362196
+'morte do paciente': 2.1972245773362196
+'liberação do sistema': 2.1972245773362196
+'permitido na dieta': 2.1972245773362196
+'bebida na seção': 2.1972245773362196
+'tratamento da hipoglicemia': 2.1972245773362196
+'pico da insulina': 2.1972245773362196
+'sintomatologia da hipoglicemia': 2.1972245773362196
+'amigos um esquema': 2.1972245773362196
+'aumento do número': 2.1972245773362196
+'curso da micro': 2.1972245773362196
+'acompanhamento do indivíduo': 2.1972245773362196
+'coordenação do plano': 2.1972245773362196
+'controle na presença': 2.1972245773362196
+'inibidores do canal': 2.1972245773362196
+'cálcio na redução': 2.1972245773362196
+'monitoramento do controle': 2.1972245773362196
+'benefício da terapia': 2.1972245773362196
+'Controle do tabagismo': 2.1972245773362196
+'longo do tempo': 2.1972245773362196
+'início das complicações': 2.1972245773362196
+'estruturas da retina': 2.1972245773362196
+'ampliação do acesso': 2.1972245773362196
+'redução da progressão': 2.1972245773362196
+'aumento da excreção': 2.1972245773362196
+'proteção da saúde': 2.1972245773362196
+'normatização do município': 2.1972245773362196
+'causa da descompensação': 2.1972245773362196
+'seções deste manual': 2.1972245773362196
+'porta-luvas do carro': 2.1972245773362196
+'frasco no lugar': 2.1972245773362196
+'mudança na cor': 2.1972245773362196
+'responsável pelo controle': 2.1972245773362196
+'refil das canetas': 2.1972245773362196
+'frascos ao calor': 2.1972245773362196
+'insulina ao sol': 2.1972245773362196
+'insulina na geladeira': 2.1972245773362196
+'temperatura do compartimento': 2.1972245773362196
+'proteção da agulha': 2.1972245773362196
+'higiene das mãos': 2.1972245773362196
+'pele no local': 2.1972245773362196
+'limpeza da agulha': 2.1972245773362196
+'dedos na agulha': 2.1972245773362196
+'retirada do frasco': 2.1972245773362196
+'dedo na parte': 2.1972245773362196
+'parte da seringa': 2.1972245773362196
+'área do corpo': 2.1972245773362196
+'sangue na seringa': 2.1972245773362196
+'prepare outra dose': 2.1972245773362196
+'prega na pele': 2.1972245773362196
+'agulha na pele': 2.1972245773362196
+'Embaixo da pele': 2.1972245773362196
+'rodízio na aplicação': 2.1972245773362196
+'atrofia no local': 2.1972245773362196
+'área da virilha': 2.1972245773362196
+'média do abdômem': 2.1972245773362196
+'frascos à luz': 2.1972245773362196
+'importância da ação': 2.1972245773362196
+'reorientação das práticas': 2.1972245773362196
+'portadores do diabetes': 2.1972245773362196
+'profissionais das equipes': 2.1972245773362196
+'agravos à saúde': 2.1972245773362196
+'famílias na comunidade': 2.1972245773362196
+'abordagem do diabetes': 2.1972245773362196
+'definição das atribuições': 2.1972245773362196
+'equipe no cuidado': 2.1972245773362196
+'equipe na aquisição': 2.1972245773362196
+'busca da capacitação': 2.1972245773362196
+'importância das mudanças': 2.1972245773362196
+'membros da comunidade': 2.1972245773362196
+'definição do risco': 2.1972245773362196
+'risco pelo enfermeiro': 2.1972245773362196
+'membro da família': 2.1972245773362196
+'queda do açúcar': 2.1972245773362196
+'diabetes às consultas': 2.1972245773362196
+'níveis da pressão': 2.1972245773362196
+'indivíduos da demanda': 2.1972245773362196
+'orientações do enfermeiro': 2.1972245773362196
+'enfermeiro da unidade': 2.1972245773362196
+'impossibilidade do farmacêutico': 2.1972245773362196
+'médico da unidade': 2.1972245773362196
+'indivíduo ao médico': 2.1972245773362196
+'controle pela equipe': 2.1972245773362196
+'qualidade do cuidado': 2.1972245773362196
+'papel no controle': 2.1972245773362196
+'trabalhos da equipe': 2.1972245773362196
+'tocante à saúde': 2.1972245773362196
+'mudança no esquema': 2.1972245773362196
+'duração do diabetes': 2.1972245773362196
+'pronto-atendimento pela equipe': 2.1972245773362196
+'anti-descarboxilase do ácido': 2.1972245773362196
+'impacto na redução': 2.1972245773362196
+'meio do cuidado': 2.1972245773362196
+'autonomia no auto-cuidado': 2.1972245773362196
+'vida da população': 2.1972245773362196
+'final da década': 2.1972245773362196
+'prevalência da tolerância': 2.1972245773362196
+'complexidade do tratamento': 2.1972245773362196
+'decorrência da perda': 2.1972245773362196
+'produtividade no trabalho': 2.1972245773362196
+'meio da prevenção': 2.1972245773362196
+'profissionais da equipe': 2.1972245773362196
+'coordenador do cuidado': 2.1972245773362196
+'adesão do paciente': 2.1972245773362196
+'efetividade das ações': 2.1972245773362196
+'fortalecimento do vínculo': 2.1972245773362196
+'tratamento da descompensação': 2.1972245773362196
+'efetividade do cuidado': 2.1972245773362196
+'paciente na consulta': 2.1972245773362196
+'consideração a carga': 2.1972245773362196
+'desejos do paciente': 2.1972245773362196
+'cuidado do paciente': 2.1972245773362196
+'ênfase no empoderamento': 2.1972245773362196
+'diabetes na unidade': 2.1972245773362196
+'serviço no caso': 2.1972245773362196
+'conteúdo deste manual': 2.1972245773362196
+'diabetes do adulto': 2.1972245773362196
+'função das células': 2.1972245773362196
+'continuidade do ciclo': 2.1972245773362196
+'portadores da doença': 2.1972245773362196
+'prevalência do diabetes': 2.1972245773362196
+'doces da dieta': 2.1972245773362196
+'substituição a glicose': 2.1972245773362196
+'água do banho': 2.1972245773362196
+'amento do número': 2.1972245773362196
+'prevenção ao excesso': 2.1972245773362196
+'resto da vida': 2.1972245773362196
+'diabetes na criança': 2.1972245773362196
+'ambulatórios da maioria': 2.1972245773362196
+'maioria das faculdades': 2.1972245773362196
+'ajuda da equipe': 2.1972245773362196
+'glicemia várias vezes': 2.1972245773362196
+'futuro do diabetes': 2.1972245773362196
+'cura nesse momento': 2.1972245773362196
+'preferência à carboidratos': 2.1972245773362196
+'aumento da incidência': 2.1972245773362196
+'controle do diabete': 2.1972245773362196
+'vontade no almoço': 2.1972245773362196
+'açúcar na formulação': 2.1972245773362196
+'início das alterações': 2.1972245773362196
+'vez ao ano': 2.1972245773362196
+'dilatação da pupila': 2.1972245773362196
+'gravidade do resultado': 2.1972245773362196
+'resultado do exame': 2.1972245773362196
+'ajuste das doses': 2.1972245773362196
+'consultas as medidas': 2.1972245773362196
+'medidas da glicemia': 2.1972245773362196
+'envelhecimento da população': 2.1972245773362196
+'destruição da célula': 2.1972245773362196
+'garantia da efetividade': 2.1972245773362196
+'causa da destruição': 2.1972245773362196
+'peso da ordem': 2.1972245773362196
+'promoção da atividade': 2.1972245773362196
+'teste da fala': 2.1972245773362196
+'atividades ao gosto': 2.1972245773362196
+'gosto do paciente': 2.1972245773362196
+'volta à calma': 2.1972245773362196
+'aplicação na perna': 2.1972245773362196
+'início do exercício': 2.1972245773362196
+'escolha do hipoglicemiante': 2.1972245773362196
+'avanço da doença': 2.1972245773362196
+'tratamento da hiperglicemia': 2.1972245773362196
+'vexes ao dia': 2.1972245773362196
+'tolerância do paciente': 2.1972245773362196
+'resistência à ação': 2.1972245773362196
+'diminuição da função': 2.1972245773362196
+'resultado da glicemia': 2.1972245773362196
+'alterações da atividade': 2.1972245773362196
+'efeito da insulina': 2.1972245773362196
+'café-da-manhã do dia': 2.1972245773362196
+'variações ao longo': 2.1972245773362196
+'dia na faixa': 2.1972245773362196
+'automonitoramento do controle': 2.1972245773362196
+'omissão da aplicação': 2.1972245773362196
+'alterações do estado': 2.1972245773362196
+'Dentre as causas': 2.1972245773362196
+'pronto-atendimento da descompensação': 2.1972245773362196
+'sintomas da descompensação': 2.1972245773362196
+'descompensação da doença': 2.1972245773362196
+'desafio da mudança': 2.1972245773362196
+'metformina no controle': 2.1972245773362196
+'aumento da atividade': 2.1972245773362196
+'caracterização do risco': 2.1972245773362196
+'redução da ingestão': 2.1972245773362196
+'função da complexidade': 2.1972245773362196
+'coordenação do cuidado': 2.1972245773362196
+'responsabilidade da equipe': 2.1972245773362196
+'alterações na regulação': 2.1972245773362196
+'reconhecimento pelo clínico': 2.1972245773362196
+'medida na altura': 2.1972245773362196
+'altura das cristas': 2.1972245773362196
+'alteração na regulação': 2.1972245773362196
+'caracterização do grau': 2.1972245773362196
+'manuntenção do peso': 2.1972245773362196
+'aumento da ingestão': 2.1972245773362196
+'defeito na secreção': 2.1972245773362196
+'padronização do tempo': 2.1972245773362196
+'Tolerância à glicose': 2.1972245773362196
+'MUDANÇAS NO ESTILO': 2.1972245773362196
+'demora no atendimento': 2.1972245773362196
+'valor da hemoglobina': 2.1972245773362196
+'tendência à hiperglicemia': 2.1972245773362196
+'proteínas do organismo': 2.1972245773362196
+'periodicidade do monitoramento': 2.1972245773362196
+'resultados da glicemia': 2.1972245773362196
+'horário das refeições': 2.1972245773362196
+'hora do dia': 2.1972245773362196
+'Pessoas cuja glicemia': 2.1972245773362196
+'glicose causa': 2.136294361119891
+'principal manifestação': 2.136294361119891
+'principal função': 2.136294361119891
+'diversos tecidos': 2.136294361119891
+'maior causa': 2.136294361119891
+'baixo controle': 2.136294361119891
+'renal terminal': 2.136294361119891
+'maior assertividade': 2.136294361119891
+'pequenas alterações': 2.136294361119891
+'atendimento médico': 2.136294361119891
+'melhor comodidade': 2.136294361119891
+'principais sintomas': 2.136294361119891
+'maior doença': 2.136294361119891
+'possível prefira': 2.136294361119891
+'grandes responsáveis': 2.136294361119891
+'seguinte maneira': 2.136294361119891
+'pronto acesso': 2.136294361119891
+'gestacional valores': 2.136294361119891
+'metabólica transitória': 2.136294361119891
+'seguinte endereço': 2.136294361119891
+'mudanças positivas': 2.136294361119891
+'conseqüente prejuízo': 2.136294361119891
+'maior apoio': 2.136294361119891
+'escolhas medicamentosas': 2.136294361119891
+'educativo aspectos': 2.136294361119891
+'líquidos caseiros': 2.136294361119891
+'mel embaixo': 2.136294361119891
+'isquêmicas cardiovasculares': 2.136294361119891
+'neurológicos básicos': 2.136294361119891
+'diversos membros': 2.136294361119891
+'enzima fosfodiesterase': 2.136294361119891
+'complexo B': 2.136294361119891
+'leve pressão': 2.136294361119891
+'futura mãe': 2.0794415416798357
+'Boa tarde': 2.0794415416798357
+'grande dificuldade': 2.0794415416798357
+'mesma área': 2.0794415416798357
+'perda anormal': 2.0794415416798357
+'potencial risco': 2.0794415416798357
+'InsulinaA utilização': 2.0794415416798357
+'primeiras semanas': 2.0794415416798357
+'principal fator': 2.0794415416798357
+'primeira semana': 2.0794415416798357
+'possível complicação': 2.0794415416798357
+'cada vez': 2.0794415416798357
+'possíveis erros': 2.0794415416798357
+'maior porcentagem': 2.0794415416798357
+'pratiquei caminhadas': 2.0794415416798357
+'possível lesão': 2.0794415416798357
+'bom estado': 2.0794415416798357
+'excelente medicamento': 2.0794415416798357
+'pequena mancha': 2.0794415416798357
+'boa tarde': 2.0794415416798357
+'mesmos sintomas': 2.0794415416798357
+'Boa noite': 2.0794415416798357
+'primeiro passo': 2.0794415416798357
+'má circulação': 2.0794415416798357
+'inúmeras contradições': 2.0794415416798357
+'primeira página': 2.0794415416798357
+'verdadeira Mãe': 2.0794415416798357
+'eventual problema': 2.0794415416798357
+'determinado alimento': 2.0794415416798357
+'determinado número': 2.0794415416798357
+'alto impacto': 2.0794415416798357
+'grande risco': 2.0794415416798357
+'seguintes cargos': 2.0794415416798357
+'único tratamento': 2.0794415416798357
+'menor produção': 2.0794415416798357
+'seguintes fatores': 2.0794415416798357
+'seguintes valores': 2.0794415416798357
+'orientação número': 2.0794415416798357
+'boca seca': 2.0794415416798357
+'grande emoção': 2.0794415416798357
+'Boa adesão': 2.0794415416798357
+'melhor exercício': 2.0794415416798357
+'pés descalços': 2.0794415416798357
+'principal causa': 2.0794415416798357
+'boa cirurgia': 2.0794415416798357
+'Longa duração': 2.0794415416798357
+'maior alteração': 2.0794415416798357
+'falsa crença': 2.0794415416798357
+'penúltima prateleira': 2.0794415416798357
+'primeiro uso': 2.0794415416798357
+'grande número': 2.0794415416798357
+'maior monitorização': 2.0794415416798357
+'grande variação': 2.0794415416798357
+'bom funcionamento': 2.0794415416798357
+'grande preocupação': 2.0794415416798357
+'possíveis causas': 2.0794415416798357
+'possível problema': 2.0794415416798357
+'boa avaliação': 2.0794415416798357
+'possível encontrálo': 2.0794415416798357
+'novo sintoma': 2.0794415416798357
+'Alto nível': 2.0794415416798357
+'novo teste': 2.0794415416798357
+'parto prematuro': 2.0794415416798357
+'importante fator': 2.0794415416798357
+'excelente desfecho': 2.0794415416798357
+'grande eficácia': 2.0794415416798357
+'chamado teste': 2.0794415416798357
+'24ª semana': 2.0794415416798357
+'único uso': 2.0794415416798357
+'nova lanceta': 2.0794415416798357
+'chamadas células': 2.0794415416798357
+'maior segurança': 2.0794415416798357
+'pequeno fio': 2.0794415416798357
+'famoso pncreas': 2.0794415416798357
+'Grandes quantidades': 2.0794415416798357
+'descarte correto': 2.0794415416798357
+'principais incertezas': 2.0794415416798357
+'simples exame': 2.0794415416798357
+'longos períodos': 2.0794415416798357
+'maior ingestão': 2.0794415416798357
+'profissional prescritor': 2.0794415416798357
+'bebidas alcoólicas': 2.0794415416798357
+'principais dicas': 2.0794415416798357
+'grandes vilões': 2.0794415416798357
+'grande concentração': 2.0794415416798357
+'principais exemplos': 2.0794415416798357
+'boa qualidade': 2.0794415416798357
+'proteínas magras': 2.0794415416798357
+'ótima notícia': 2.0794415416798357
+'1º grau': 2.0794415416798357
+'determinadas frases': 2.0794415416798357
+'doenças concomitantes': 2.0794415416798357
+'baixa imunidade': 2.0794415416798357
+'menor incidência': 2.0794415416798357
+'mesmo processo': 2.0794415416798357
+'mesmas recomendações': 2.0794415416798357
+'melhores alternativas': 2.0794415416798357
+'maior incidência': 2.0794415416798357
+'varias causas': 2.0794415416798357
+'sintomas clássicos': 2.0794415416798357
+'Hipoglicemias severas': 2.0794415416798357
+'hipoglicemias severas': 2.0794415416798357
+'último caso': 2.0794415416798357
+'forte componente': 2.0794415416798357
+'primeiro momento': 2.0794415416798357
+'própria vida': 2.0794415416798357
+'efetiva conduta': 2.0794415416798357
+'maior inflamação': 2.0794415416798357
+'freqüentes questões': 2.0794415416798357
+'comum acordo': 2.0794415416798357
+'pré diabetes': 2.0794415416798357
+'mesma chance': 2.0794415416798357
+'já agradeço': 2.0794415416798357
+'últimos achados': 2.0794415416798357
+'longa data': 2.0794415416798357
+'médio prazo': 1.3862943611198906
+'seguintes situações': 1.3862943611198906
+'grandes cirurgias': 1.3862943611198906
+'mesma aplicação': 1.3862943611198906
+'intermediária desenvolvimento': 1.3862943611198906
+'medidor glicêmico': 1.3862943611198906
+'menor mortalidade': 1.3862943611198906
+'próxima refeição': 1.3862943611198906
+'seguintes condições': 1.3862943611198906
+'Pequenos desvios': 1.3862943611198906
+'nova glicemia': 1.3862943611198906
+'pequenos desvios': 1.3862943611198906
+'alta probabilidade': 1.3862943611198906
+'perda involuntária': 1.3862943611198906
+'presente momento': 1.3862943611198906
+'min diários': 1.3862943611198906
+'maior uso': 1.3862943611198906
+'possível elevação': 1.3862943611198906
+'pequeno benefício': 1.3862943611198906
+'geral insulina': 1.3862943611198906
+'forte história': 1.3862943611198906
+'longa história': 1.3862943611198906
+'mesmos princípios': 1.3862943611198906
+'11.1.1 Prevenção': 1.3862943611198906
+'eventual hipoglicemia': 1.3862943611198906
+'longa duração': 1.3862943611198906
+'seguintes informações': 1.3862943611198906
+'principais grupos': 1.3862943611198906
+'sessão padrão': 1.3862943611198906
+'gelatinas dieté-ticas': 1.3862943611198906
+'maior suporte': 1.3862943611198906
+'curta duração': 1.3862943611198906
+'últimos testes': 1.3862943611198906
+'últimas glicemias': 1.3862943611198906
+'seguintes pontos': 1.3862943611198906
+'úlcera não-cicatrizante': 1.3862943611198906
+'maior carga': 1.3862943611198906
+'pés-assegurar cuidado': 1.3862943611198906
+'primeira linha': 1.3862943611198906
+'segunda linha': 1.3862943611198906
+'12.7 Vacinas': 1.3862943611198906
+'alta mortalidade': 1.3862943611198906
+'maior complexidade': 1.3862943611198906
+'fitas reagentes': 1.3862943611198906
+'Portaria nº': 1.3862943611198906
+'seguintes recomendações': 1.3862943611198906
+'13.3 Atribuições': 1.3862943611198906
+'boa acuidade': 1.3862943611198906
+'portaria nº': 1.3862943611198906
+'respectiva gestão': 1.3862943611198906
+'principal desafio': 1.3862943611198906
+'descritas atribuições': 1.3862943611198906
+'maior freqüência': 1.3862943611198906
+'difícil controle': 1.3862943611198906
+'necessária segurança': 1.3862943611198906
+'5º dedo': 1.3862943611198906
+'efetiva comunicação': 1.3862943611198906
+'mesma pessoa': 1.3862943611198906
+'próximo teste': 1.3862943611198906
+'agente hipoglicemiante': 1.3862943611198906
+'pequena dose': 1.3862943611198906
+'determinada tarefa': 1.3862943611198906
+'possível recorrência': 1.3862943611198906
+'expressiva morbimortalidade': 1.3862943611198906
+'menos metade': 1.3862943611198906
+'causas secundárias': 1.3862943611198906
+'rápida absorção': 1.3862943611198906
+'principal forma': 1.3862943611198906
+'discreta redução': 1.3862943611198906
+'graus severa': 1.3862943611198906
+'diagnóstico precoce': 1.3862943611198906
+'alto grau': 1.3862943611198906
+'não-proliferativa severa': 1.3862943611198906
+'melhor marcador': 1.3862943611198906
+'12h diurna': 1.3862943611198906
+'seguintes aspectos': 1.3862943611198906
+'Limiar percepção': 1.3862943611198906
+'Principais sintomas': 1.3862943611198906
+'plena vida': 1.3862943611198906
+'próximo manual': 1.3862943611198906
+'elevado teor': 1.3862943611198906
+'má absorção': 1.3862943611198906
+'devidas orientações': 1.3862943611198906
+'diabetes afeta': 1.3862943611198906
+'melhores locais': 1.3862943611198906
+'medicamentos via': 1.3862943611198906
+'novo medicamento': 1.3862943611198906
+'seguintes medicamentos': 1.3862943611198906
+'novas tecnologias': 1.3862943611198906
+'crises convulsivas': 1.3862943611198906
+'único nervo': 1.3862943611198906
+'especial atenção': 1.3862943611198906
+'difícil cicatrização': 1.3862943611198906
+'menor gravidade': 1.3862943611198906
+'pequena área': 1.3862943611198906
+'chamada mácula': 1.3862943611198906
+'novas estruturas': 1.3862943611198906
+'próxima complicação': 1.3862943611198906
+'novos vasos': 1.3862943611198906
+'novos vasinhos': 1.3862943611198906
+'elevada concentração': 1.3862943611198906
+'elevado poder': 1.3862943611198906
+'primeiros sinais': 1.3862943611198906
+'grandes fornecedores': 1.3862943611198906
+'melhor funcionamento': 1.3862943611198906
+'meia fatia': 1.3862943611198906
+'mesma maneira': 1.3862943611198906
+'nutrientes protetores': 1.3862943611198906
+'grandes fontes': 1.3862943611198906
+'principais fornecedores': 1.3862943611198906
+'maior quantidade': 1.3862943611198906
+'pequenos lanches': 1.3862943611198906
+'Noutra circunstância': 1.3862943611198906
+'melhor fruta': 1.3862943611198906
+'bons exemplos': 1.3862943611198906
+'melhor gordura': 1.3862943611198906
+'excelente opção': 1.3862943611198906
+'exemplo fritos': 1.3862943611198906
+'maiores níveis': 1.3862943611198906
+'grandes oscilações': 1.3862943611198906
+'grandes subidas': 1.3862943611198906
+'seguintes aspetos': 1.3862943611198906
+'grandes refeições': 1.3862943611198906
+'relação custo-efetividade': 1.3862943611198906
+'novos capilares': 1.3862943611198906
+'diabetes ajude': 1.3862943611198906
+'altas taxas': 1.3862943611198906
+'perfeitas condições': 1.3862943611198906
+'alto índice': 1.3862943611198906
+'grande desafio': 1.3862943611198906
+'grande impacto': 1.3862943611198906
+'maior custo': 1.3862943611198906
+'primeira causa': 1.3862943611198906
+'mesmas faixas': 1.3862943611198906
+'principais causas': 1.3862943611198906
+'mesmo período': 1.3862943611198906
+'menor qualidade': 1.3862943611198906
+'elevada carga': 1.3862943611198906
+'próprio cuidado': 1.3862943611198906
+'consideração aspectos': 1.3862943611198906
+'próprias condições': 1.3862943611198906
+'menor proporção': 1.3862943611198906
+'último tipo': 1.3862943611198906
+'defeito secretor': 1.3862943611198906
+'mesmos procedimentos': 1.3862943611198906
+'maior colaboração': 1.3862943611198906
+'possíveis complicações': 1.3862943611198906
+'crescente prevalência': 1.3862943611198906
+'diagnóstico tardio': 1.3862943611198906
+'melhor qualidade': 1.3862943611198906
+'má interpretação': 1.3862943611198906
+'rápida correção': 1.3862943611198906
+'extremo medo': 1.3862943611198906
+'pobre controle': 1.3862943611198906
+'excelentes resultados': 1.3862943611198906
+'Altas taxas': 1.3862943611198906
+'primeiros sintomas': 1.3862943611198906
+'mesma energia': 1.3862943611198906
+'últimas décadas': 1.3862943611198906
+'mg /dl': 1.3862943611198906
+'maiores riscos': 1.3862943611198906
+'baixos níveis': 1.3862943611198906
+'alta disponibilidade': 1.3862943611198906
+'maior propensão': 1.3862943611198906
+'sexta complicação': 1.3862943611198906
+'forte relação': 1.3862943611198906
+'maior integração': 1.3862943611198906
+'grande maioria': 1.3862943611198906
+'baixas taxas': 1.3862943611198906
+'diabetes na família': 1.0986122886681098
+'m a insulina': 1.0986122886681098
