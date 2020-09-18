@@ -1,0 +1,27 @@
+from pyate import cvalues
+
+def cvalues_com_sw(document): #document = text
+    cv_index = []
+    cv_value = [] 
+    cv_original = cvalues(document).sort_values(ascending=False)
+
+    for i in cv_original.index: 
+      cv_index.append(i)
+    
+    for j in cv_original: 
+      cv_value.append(j)
+    
+    cv_resultado = {cv_index[k]: cv_value[k] for k in range(len(cv_index))}
+
+    return cv_resultado, cv_index, cv_value
+    
+###
+[cvalues_com_stop_words, cv_indices, cv_valores] = cvalues_com_sw(string)
+
+###
+#sem stop words
+z = []
+for x in cvalues_com_stop_words:
+  if x not in stopwords:
+    z.append(x)
+    print("'" + str(x)+"'"+ ': '+ str(cvalues_com_stop_words[x])) 
