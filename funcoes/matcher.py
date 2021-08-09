@@ -5,7 +5,7 @@ from spacy.matcher import Matcher
 matcher = Matcher(nlp.vocab)
 matches = matcher(doc)
 
-dataframe = pd.read_csv('/content/drive/My Drive/ColabNotebooks/txt.txt',sep='delimiter' , header = None) #todos textos sobre diabetes
+dataframe = pd.read_csv('local',sep='delimiter' , header = None) 
 
 ###
 def get_noun_patterns():
