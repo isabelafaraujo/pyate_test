@@ -18,7 +18,7 @@ def cvalues_com_sw(document): #document = text
 ###
 [cvalues_com_stop_words, cv_indices, cv_valores] = cvalues_com_sw(string)
 
-###
+
 #sem stop words
 z = []
 for x in cvalues_com_stop_words:
