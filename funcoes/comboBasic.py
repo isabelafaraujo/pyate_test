@@ -2,7 +2,7 @@ from src.pyate import combo_basic
 from src.pyate.term_extraction_pipeline import TermExtractionPipeline
 nlp.add_pipe(TermExtractionPipeline())
 
-def combobasic_com_sw(document): #document = text
+def combobasic_com_sw(document): 
     cb_index = []
     cb_value = [] 
     doc = nlp(document)
@@ -20,7 +20,7 @@ def combobasic_com_sw(document): #document = text
     return cb_resultado, cb_index, cb_value
 
 ###
-[combo_basic_com_stop_words,cb_indice, cb_valores] = combobasic_com_sw(string) #dicionario com resultados com stop words
+[combo_basic_com_stop_words,cb_indice, cb_valores] = combobasic_com_sw(string) 
 
 ###
 #sem stop words
